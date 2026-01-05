@@ -1,11 +1,5 @@
 [<img src="/public/burakbilgili.jpg" />](https://www.burakbilgili.co.uk)
 
-# Burak Bilgili
-
-Frontend Developer based in Istanbul, Turkey.
-
-Former veterinary student turned web developer in 2022. I build modern, scalable web applications with React, Next.js, and TypeScript.
-
 ## Tech Stack
 
 React | Next.js | TypeScript | Tailwind CSS | shadcn/ui | Prisma | MongoDB | Node.js
